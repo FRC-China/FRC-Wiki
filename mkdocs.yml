@@ -5,24 +5,25 @@ repo_name: FRC-China/FRC-Wiki
 repo_url: https://github.com/FRC-China/FRC-Wiki
 
 nav:
-  - 开始:
+  - FRC 简介:
+      - 比赛历史: intro/history.md
+      - 比赛内容: intro/content.md
+      - 外网资源: intro/resources.md
+  - 机械结构:
+      - 结构概述: structure/overview.md
+  - 电控系统:
+      - 电控概述: electronics/overview.md
+  - 程序:
+      - 程序概述: programming/overview.md
+      - Java基础: programming/javabasics.md
+  - 最佳实践:
+        - 概述: best-practices/overview.md
+  - 关于本站:
       - 关于本项目: index.md
       - 如何使用本项目: start/usage.md
       - 如何参与: start/contribute.md
       - FAQ: start/faq.md
       - 致谢: start/acknowledgement.md
-  - 介绍:
-      - 比赛历史: intro/history.md
-      - 比赛内容: intro/content.md
-      - 外网资源: intro/resources.md
-  - 结构:
-      - 结构概述: structure/overview.md
-  - 电控:
-      - 电控概述: electronics/overview.md
-  - 程序:
-      - 程序概述: programming/overview.md
-  - 最佳实践:
-        - 概述: best-practices/overview.md
 
 markdown_extensions:
   - footnotes
