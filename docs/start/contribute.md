@@ -1,5 +1,7 @@
 # 如何参与[^ref1]
 
+![Repobeats](https://repobeats.axiom.co/api/embed/450eabefc4b5e01a72c65c3fbd80783dcf2e9296.svg)
+
 ## 写在前面
 
 **FRC China Wiki** 项目组全体成员十分欢迎您为本项目贡献页面。
