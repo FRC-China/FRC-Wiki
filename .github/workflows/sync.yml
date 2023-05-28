@@ -16,4 +16,5 @@ jobs:
           git remote set-url origin https://${{secrets.PAT}}@github.com/CLCK0622/FRC-Wiki.git
           git status
           git add .
+          git commit -m "$(date)"
           git push origin main
