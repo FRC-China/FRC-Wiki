@@ -9,10 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Settings
-        run: |
-          git config core.sparsecheckout true
-          echo "!.github/" >> .git/info/sparse-checkout
       - name: Pull
         run: |
           git config --global user.email "EvanLuo42@users.noreply.github.com"
