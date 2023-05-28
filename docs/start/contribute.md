@@ -30,7 +30,7 @@
 
 ## 参与协作
 
-在开始编写一段内容之前，请查阅 [Issues](https://github.com/CLCK0622/FRC-wiki/issues)，确认没有别人在做相同的工作之后，开个 [新 issue](https://github.com/CLCK0622/FRC-wiki/issues/new) 记录待编写的内容。
+在开始编写一段内容之前，请查阅 [Issues](https://github.com/FRC-China/FRC-wiki/issues)，确认没有别人在做相同的工作之后，开个 [新 issue](https://github.com/FRC-China/FRC-wiki/issues/new) 记录待编写的内容。
 
 **请尽量使用 Discussion 或 Issue 与他人沟通。这样可以使你们的思路与想法被保存下来，以供他人参考或改进！**
 
@@ -68,7 +68,7 @@
 
 ### 对于目录和引用的变更
 
-通常情况下，如果您需要添加一个新页面，或者修改已有页面在目录中的链接，您就需要对 [`mkdocs.yml`](https://github.com/CLCK0622/FRC-Wiki/blob/main/mkdocs.yml) 文件作出改动。
+通常情况下，如果您需要添加一个新页面，或者修改已有页面在目录中的链接，您就需要对 [`mkdocs.yml`](https://github.com/FRC-China/FRC-Wiki/blob/main/mkdocs.yml) 文件作出改动。
 
 添加新页面可以参考既有的格式。但除非是进行重构或修正名词，否则 **我们不建议对既有页面的引用链接进行修改**，Pull Requests 中不必要的修改也将被驳回。
 
