@@ -1,0 +1,23 @@
+name: Sync Fork
+
+on:
+  push: # push 时触发, 主要是为了测试配置有没有问题
+  schedule:
+    - cron: '*/30 * * * *' # 每3小时触发, 对于一些更新不那么频繁的项目可以设置为每天一次, 低碳一点
+jobs:
+  repo-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Settings
+        run: |
+          git config core.sparsecheckout true
+          echo "!.github/" >> .git/info/sparse-checkout
+      - name: Pull
+        run: |
+          git config --global user.email "EvanLuo42@users.noreply.github.com"
+          git config --global user.name "EvanLuo42"
+          git remote set-url origin https://${{secrets.PAT}}@github.com/CLCK0622/FRC-Wiki.git
+          git status
+          git add .
+          git push origin main
