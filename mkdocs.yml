@@ -2,9 +2,15 @@
 site_name: FRC 中文 Wiki
 
 repo_name: FRC-China/FRC-Wiki
-repo_url: https://github.com/FRC-China/FRC-Wiki
+repo_url: https://github.com/CLCK0622/FRC-Wiki
 
 nav:
+  - 关于本站:
+      - 关于本项目: index.md
+      - 如何使用本项目: start/usage.md
+      - 如何参与: start/contribute.md
+      - FAQ: start/faq.md
+      - 致谢: start/acknowledgement.md
   - FRC 简介:
       - 比赛历史: intro/history.md
       - 比赛内容: intro/content.md
@@ -18,12 +24,6 @@ nav:
       - Java基础: programming/javabasics.md
   - 最佳实践:
         - 概述: best-practices/overview.md
-  - 关于本站:
-      - 关于本项目: index.md
-      - 如何使用本项目: start/usage.md
-      - 如何参与: start/contribute.md
-      - FAQ: start/faq.md
-      - 致谢: start/acknowledgement.md
 
 markdown_extensions:
   - footnotes
