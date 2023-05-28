@@ -1,4 +1,25 @@
+# yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: FRC 中文 Wiki
+
+repo_name: FRC-China/FRC-Wiki
+repo_url: https://github.com/FRC-China/FRC-Wiki
+
+nav:
+  - 开始:
+    - 关于本项目: index.md
+    - 如何使用本项目: intro/usage.md
+    - 如何参与: intro/contribute.md
+    - FAQ: intro/faq.md
+    - 致谢: intro/acknowledgement.md
+
+markdown_extensions:
+  - footnotes
+  - toc:
+      permalink: true
 
 theme:
   name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - search.suggest
