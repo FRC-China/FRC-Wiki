@@ -35,3 +35,6 @@ theme:
   features:
     - navigation.tabs
     - search.suggest
+    - navigation.footer
+
+copyright: Copyright &copy; 2023 FRC China Wiki Team
