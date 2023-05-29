@@ -1,0 +1,26 @@
+name: "CLCK is god"
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    name: "Sync with upstream"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+      - name: Push
+        run: |
+          git remote remove origin
+          git remote add origin git@github.com:CLCK0622/FRC-Wiki.git
+          mkdir -p ~/.ssh/
+          echo "${{ secrets.KEY }}" > ~/.ssh/id_rsa.pub
+          chmod 600 ~/.ssh/id_rsa.pub
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+          git config --global user.name "Upstream Syncing Bot"
+          git config --global user.email "nobody@nobody.nobody"
+          git config --global core.quotepath false
+          git add --all
+          git commit -m "Sync with upstream"
+          git push origin main -f
