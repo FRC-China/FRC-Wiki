@@ -55,4 +55,13 @@ theme:
     - search.suggest
     - navigation.footer
 
+plugins:
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      cache_safe: true
+
 copyright: Copyright &copy; 2023 FRC China Wiki Team
