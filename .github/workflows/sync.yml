@@ -1,4 +1,4 @@
-name: "CLCK is god"
+name: "Sync with upstream"
 
 on: [push, pull_request]
 
@@ -20,6 +20,7 @@ jobs:
           git config --global user.name "Upstream Syncing Bot"
           git config --global user.email "nobody@nobody.nobody"
           git config --global core.quotepath false
+          git fetch syncrepo
           git add --all
           git commit -m "Sync with upstream"
-          git push syncrepo main
+          git push syncrepo main -f
