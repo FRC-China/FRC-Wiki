@@ -12,8 +12,7 @@ jobs:
           fetch-depth: 1
       - name: Push
         run: |
-          git remote remove origin
-          git remote add origin git@github.com:CLCK0622/FRC-Wiki.git
+          git remote add syncrepo git@github.com:CLCK0622/FRC-Wiki.git
           mkdir -p ~/.ssh/
           echo "${{ secrets.KEY }}" > ~/.ssh/id_rsa.pub
           chmod 600 ~/.ssh/id_rsa.pub
@@ -23,4 +22,4 @@ jobs:
           git config --global core.quotepath false
           git add --all
           git commit -m "Sync with upstream"
-          git push origin main -f
+          git push syncrepo main
