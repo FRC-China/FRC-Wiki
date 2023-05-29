@@ -16,6 +16,8 @@ jobs:
           mkdir -p ~/.ssh/
           echo "${{ secrets.KEY }}" > ~/.ssh/id_ed25519.pub
           chmod 600 ~/.ssh/id_ed25519.pub
+          echo "${{ secrets.KEY_RSA }}" > ~/.ssh/id_rsa.pub
+          chmod 600 ~/.ssh/id_rsa.pub
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --global user.name "Upstream Syncing Bot"
           git config --global user.email "nobody@nobody.nobody"
