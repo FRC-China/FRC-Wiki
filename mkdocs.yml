@@ -5,7 +5,7 @@ site_author: FRC 中文 Wiki 项目组
 site_description: FRC 中文 Wiki 是一个由中国 FRC 社区维护的 FRC 中文知识库。
 
 repo_name: FRC-China/FRC-Wiki
-repo_url: https://github.com/CLCK0622/FRC-Wiki
+repo_url: https://github.com/FRC-China/FRC-Wiki
 
 nav:
   - 关于本站:
