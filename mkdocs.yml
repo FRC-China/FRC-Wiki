@@ -15,9 +15,9 @@ nav:
       - FAQ: start/faq.md
       - 致谢: start/acknowledgement.md
   - FRC 简介:
-      - 比赛历史: intro/history.md
       - 比赛内容: intro/content.md
-      - 外网资源: intro/resources.md
+      - 比赛历史: intro/history.md
+      - 资源: intro/resources.md
   - 机械结构:
       - 结构概述: structure/overview.md
   - 电控系统:
