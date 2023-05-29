@@ -1,6 +1,6 @@
-name: "CLCK is god"
+name: "Sync with upstream"
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
   build:
@@ -14,12 +14,13 @@ jobs:
         run: |
           git remote add syncrepo git@github.com:CLCK0622/FRC-Wiki.git
           mkdir -p ~/.ssh/
-          echo "${{ secrets.KEY }}" > ~/.ssh/id_rsa.pub
-          chmod 600 ~/.ssh/id_rsa.pub
+          echo "${{ secrets.KEY }}" > ~/.ssh/id_ed25519.pub
+          chmod 600 ~/.ssh/id_ed25519.pub
           ssh-keyscan github.com >> ~/.ssh/known_hosts
           git config --global user.name "Upstream Syncing Bot"
           git config --global user.email "nobody@nobody.nobody"
           git config --global core.quotepath false
+          git fetch syncrepo
           git add --all
           git commit -m "Sync with upstream"
-          git push syncrepo main
+          git push syncrepo main -f
