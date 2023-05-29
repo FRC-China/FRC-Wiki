@@ -21,6 +21,4 @@ jobs:
           git config --global user.email "nobody@nobody.nobody"
           git config --global core.quotepath false
           git fetch syncrepo
-          git add --all
-          git commit -m "Sync with upstream"
           git push syncrepo main -f
