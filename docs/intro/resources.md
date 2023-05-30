@@ -1,7 +1,22 @@
 # 资源
 
-## 资讯类网站
+## 参考类网站
+
+- [WPiLib](https://wpilib.org/)
+
+- [PhotonVision](https://photonvision.org/)
+
+- [LimelightVision](https://limelightvision.io/)
+
+- [CTR-Electronics](https://store.ctr-electronics.com/)
+
+- [REV Robotics](https://www.revrobotics.com/)
+
+## 论坛
+
 - [Chief Delphi](https://www.chiefdelphi.com)
+
+## 资讯类网站
 
 - [The Blue Alliance](https://www.thebluealliance.com)
 
