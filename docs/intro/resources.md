@@ -1,9 +1,6 @@
 # 资源
 
-<<<<<<< HEAD
 ## 资讯与论坛类网站
-=======
-## 参考类网站
 
 - [WPiLib](https://wpilib.org/)
 
@@ -17,7 +14,6 @@
 
 ## 论坛
 
->>>>>>> e2daf94c3f746458eb6a3a5bb8fd48b7ef08536c
 - [Chief Delphi](https://www.chiefdelphi.com)
 
 ## 资讯类网站
