@@ -24,6 +24,7 @@ nav:
       - 电控概述: electronics/overview.md
   - 程序:
       - 程序概述: programming/overview.md
+      - 版本控制: programming/git-basics.md
       - Java 基础: programming/java-basics.md
   - 最佳实践:
         - 概述: best-practices/overview.md
