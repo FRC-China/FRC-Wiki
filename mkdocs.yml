@@ -10,6 +10,7 @@ repo_url: https://github.com/FRC-China/FRC-Wiki
 nav:
   - 关于本站:
       - 关于本项目: index.md
+      - 共同宗旨: commons.md
       - 如何使用本项目: start/usage.md
       - 如何参与: start/contribute.md
       - FAQ: start/faq.md
