@@ -2,6 +2,7 @@ name: mkdocs-build-check
 on:
   pull_request:
     types: [synchronize]
+  workflow_dispatch:
 jobs:
   check:
     runs-on: ubuntu-latest
