@@ -9,8 +9,8 @@ repo_url: https://github.com/FRC-China/FRC-Wiki
 
 nav:
   - 关于本站:
-      - 关于本项目: index.md
-      - 共同宗旨: commons.md
+      - 主页: index.md
+      - 共同宗旨: start/commons.md
       - 如何使用本项目: start/usage.md
       - 如何参与: start/contribute.md
       - FAQ: start/faq.md
@@ -21,11 +21,12 @@ nav:
       - 资源: intro/resources.md
   - 机械结构:
       - 结构概述: structure/overview.md
+      - 底盘: structure/chassis.md
   - 电控系统:
       - 电控概述: electronics/overview.md
   - 程序:
       - 程序概述: programming/overview.md
-      - 版本控制: programming/git-basics.md
+      - Git 版本控制: programming/git-basics.md
       - Java 基础: programming/java-basics.md
   - 最佳实践:
         - 概述: best-practices/overview.md
