@@ -19,7 +19,10 @@ nav:
       - 比赛内容: intro/content.md
       - 比赛历史: intro/history.md
       - 资源: intro/resources.md
-  - 机械结构:
+  - 从零开始: 
+      - 注册队伍: setup/register.md
+      - 队伍管理: setup/management.md
+  - 机械:
       - 结构概述: structure/overview.md
       - 底盘: structure/chassis.md
       - 材料: structure/material.md
@@ -27,8 +30,10 @@ nav:
       - 电控概述: electronics/overview.md
   - 程序:
       - 程序概述: programming/overview.md
-      - Git 版本控制: programming/git-basics.md
       - Java 基础: programming/java-basics.md
+  - 工具和软件:
+      - Git 版本控制: tools/git-basics.md
+      - Autodesk Inventer 使用教程: tools/inventor.md
   - 最佳实践:
         - 概述: best-practices/overview.md
 
