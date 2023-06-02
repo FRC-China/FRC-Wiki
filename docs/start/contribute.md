@@ -79,7 +79,7 @@
 1.  Commit 摘要请简要描述这一次 Commit 改动的内容。注意 Commit 摘要的长度不要超过 50 字符，超出的部分会自动置于正文中。
 2.  如果需要进一步描述本次 Commit 内容，请在正文中详细说明。
 
-对于 Commit 摘要，请使用 [Conventions Commits 1.0.0](https://www.conventionalcommits.org/zh-hans/v1.0.0/) 规范进行书写。
+对于 Commit 摘要，请使用 [Conventions Commits 1.0.0](https://www.conventionalcommits.org/zh-hans/v1.0.0/) 规范进行书写。由于这是中文维基，Commit 信息可以使用中文书写。
 
 ### PR 信息格式规范
 
@@ -88,7 +88,7 @@
 1.  标题请写明本次 PR 的目的（做了 **什么** 工作，修复了 **什么** 问题）。
 2.  内容请简要叙述修改的内容。如果修复了一个 issue 的问题，请在内容中添加 `fix #xxxx` 字段，其中 `xxxx` 代表 issue 的编号。
 
-对于 PR 的标题，推荐使用如下格式书写：
+对于 PR 的标题，推荐使用如下格式书写，修改内容部分中英文皆可：
 
 ```text
 <修改类型>(<区域>): <修改的内容> (<对应 issue 的编号>)
