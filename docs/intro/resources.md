@@ -1,6 +1,6 @@
 # 资源
 
-## 资讯与论坛类网站
+## 文档
 
 - [WPiLib](https://wpilib.org/)
 
@@ -12,9 +12,13 @@
 
 - [REV Robotics](https://www.revrobotics.com/)
 
-## 论坛
+## Wiki 站点
 
-- [Chief Delphi](https://www.chiefdelphi.com)
+- [FRC Zero](https://frczero.org): 一个英文 FRC Wiki，包含很多基础知识。
+
+## 论坛类网站
+
+- [Chief Delphi](https://www.chiefdelphi.com): 一个问答类论坛，可以用于技术提问等用途。
 
 ## 资讯类网站
 
