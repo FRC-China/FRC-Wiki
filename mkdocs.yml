@@ -86,4 +86,4 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-copyright: Copyright &copy; 2023 FRC China Wiki Team
+copyright: Copyright &copy; 2023 <a href="https://github.com/FRC-China">FRC China Wiki Team</a> <br /> Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> and <a href="https://github.com/zTrix/sata-license">SATA 2.0</a>
