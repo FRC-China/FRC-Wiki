@@ -1,6 +1,7 @@
 # FRC Wiki for Teams based in China
 
 [![Telegram](https://img.shields.io/badge/Telegram-FRC%20Wiki-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/frc_wiki)
+[![Discord](https://img.shields.io/discord/1117376626200694784?color=5865F2&label=discord&labelColor=555)](https://discord.gg/GEv2zypn)
 
 欢迎来到 FRC 中文 Wiki！
 
