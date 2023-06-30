@@ -25,3 +25,10 @@ FRC 比赛历史悠久，但由于资源获取困难、经费需求大、门槛�
 - 最佳实践（各种场景适用的解决方案归纳总结）
 
 最后，**FRC 中文 Wiki** 属于社区，提倡**知识自由**，在将来也不会有任何形式的商业化行为。我们欢迎任何人加入到社区的维护当中，共同建设这个平台。
+
+
+### PR Contributors
+
+<a href="https://github.com/FRC-China/FRC-Wiki/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=FRC-China/FRC-Wiki" />
+</a>
