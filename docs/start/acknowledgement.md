@@ -8,13 +8,13 @@
 
 | 昵称  | 贡献  | 日期  |
 |-----|-----|-----|
-|CLCK0622|购置 `firstrobotics.com.cn` 主域名|2023年5月28日|
-
-### GitHub PR 贡献者
-
-<a href="https://github.com/FRC-China/FRC-Wiki/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=FRC-China/FRC-Wiki" />
-</a>
+|CLCK0622|捐款 75.00 RMB|2023年6月28日|
+|y0ng1e|捐款 75.00 RMB|2023年6月28日|
+|WilliamLi0623|捐款 74.84 RMB|2023年6月28日|
+|古鸽|捐款 100.00 RMB|2023年6月28日|
+|EvanLuo42|捐款 74.84 RMB|2023年6月28日|
+|芝士汉堡|捐款 30.00 RMB|2023年6月28日|
+|通通|捐款 75.00 RMB|2023年6月29日|
 
 ### 核心运维与技术支持
 

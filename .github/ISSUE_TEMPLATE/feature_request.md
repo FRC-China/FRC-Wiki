@@ -1,20 +1,24 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 建议新特性
+about: 为本项目出谋划策
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**你的建议是否与现存的问题有关？如果是请描述。**
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+<!-- 用简明的语言描述你遇到的问题。 -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**理想的解决方案**
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+<!-- 用简明的语言描述你想要什么。 -->
+
+**（如有）描述你设想的替代方案**
+
+<!-- 用简明的语言描述你想到的替代方案。 -->
+
+**其他内容**
+
+<!-- 写下你想补充的内容。 -->

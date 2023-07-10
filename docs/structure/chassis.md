@@ -35,7 +35,7 @@ FRC 机器人中的底盘主要由金属构件支撑，分为两种：**直轮�
 
 > Source: Swerve Drive Specialties[^ref4]. 上图是较新版本的 Swerve 全向底盘部件。一个底盘共有 4 个完全相同的 Swerve 模块，本图仅展示了其一作展示之用。
 
-一个 Swerve 模块通常包含两个电机（motors），上图展示的是 Falcon 电机，现实中亦可使用 775 电机。其中一个电机带动轮胎滚动，另一个负责转向。由此，Swerve 实现了万向功能。
+一个 Swerve 模块通常包含两个电机（motors），上图展示的是 Falcon 电机，现实中亦可使用 775 电机（不推荐，原因是 775 的峰值负荷较低）。其中一个电机带动轮胎滚动，另一个负责转向。由此，Swerve 实现了万向功能。
 
 ![Orbit 1690 Swerve](https://s2.loli.net/2023/05/31/uvn4XAlQfwOoEWZ.jpg)
 
