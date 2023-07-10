@@ -22,19 +22,35 @@ nav:
       - 资源: intro/resources.md
   - 从零开始: 
       - 注册队伍: setup/register.md
-      - 队伍管理: setup/management.md
+      - 队伍管理:
+          - 队伍管理概述: setup/management/overview.md
+          - 管理方法: setup/management/methods.md
+          - 关于招新: setup/management/recruitment.md
+          - 常见问题: setup/management/faq.md
+      - 赞助:
+          - 赞助概述: setup/sponsorship/overview.md
+          - 赞助步骤: setup/sponsorship/steps.md
+          - 计划书: setup/sponsorship/proposal.md
+          - 推荐公司: setup/sponsorship/recommendations.md
   - 机械:
       - 结构概述: structure/overview.md
       - 底盘: structure/chassis.md
       - 材料: structure/material.md
-  - 电控系统:
+  - 电控:
       - 电控概述: electronics/overview.md
   - 程序:
       - 程序概述: programming/overview.md
-      - Java 基础: programming/java-basics.md
+      - Java 基础:
+          - 结构: programming/java-basics/structure.md
+          - 变量与类型: programming/java-basics/var-type.md
+          - 方法: programming/java-basics/method.md
+          - 对象: programming/java-basics/object.md
+          - 类: programming/java-basics/class.md
+          - 继承: programming/java-basics/inheritance.md
+          - 接口: programming/java-basics/interface.md
   - 工具和软件:
       - Git 版本控制: tools/git-basics.md
-      - Autodesk Inventer 使用教程: tools/inventor.md
+      - Autodesk Inventor 使用教程: tools/inventor.md
   - 最佳实践:
         - 概述: best-practices/overview.md
 
