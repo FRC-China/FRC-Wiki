@@ -37,6 +37,13 @@ nav:
       - Autodesk Inventer 使用教程: tools/inventor.md
   - 最佳实践:
         - 概述: best-practices/overview.md
+        - 2023年6940季后赛机器: 
+          - 机器性能概述: best-practices/6940-2023offseason/overview.md
+          - climber:
+            - 概述: best-practices/6940-2023offseason/climber/intro.md
+            - 结构设计: best-practices/6940-2023offseason/climber/structure.md
+            - 代码设计: best-practices/6940-2023offseason/climber/code.md
+
 
 markdown_extensions:
   - pymdownx.arithmatex:
