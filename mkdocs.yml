@@ -43,6 +43,14 @@ nav:
             - 概述: best-practices/6940-2023offseason/climber/intro.md
             - 结构设计: best-practices/6940-2023offseason/climber/structure.md
             - 代码设计: best-practices/6940-2023offseason/climber/code.md
+          - hopper:
+            - 概述: best-practices/6940-2023offseason/hopper/intro.md
+            - 结构设计: best-practices/6940-2023offseason/hopper/structure.md
+            - 代码设计: best-practices/6940-2023offseason/hopper/code.md
+          - shooter:
+            - 概述: best-practices/6940-2023offseason/shooter_and_hood/intro.md
+            - 结构设计: best-practices/6940-2023offseason/shooter_and_hood/structure.md
+            - 代码设计: best-practices/6940-2023offseason/shooter_and_hood/code.md
 
 
 markdown_extensions:
