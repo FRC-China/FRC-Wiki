@@ -14,7 +14,10 @@
 
 如下图所示向配电板插入保险丝，不需要区分保险丝的正负极。
 
-![Pasted image 20230504204133](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/754b2922-ad98-44cb-8143-7f32fbbbc968)
+
+
+![Pasted image 20230504204225](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/dbd091fd-7cfe-4677-be58-09fa58debcd4)
+
 
 
 
@@ -22,7 +25,7 @@
 
 如下图所示按下接口，即可插入或取出线缆，注意火线与零线之间不要被多余铜丝短接。
 
-![Pasted image 20230504204133](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/953e2420-ba54-4129-b644-4f46fb6cab33)
+![Pasted image 20230504204303](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/d0dbfaa6-7efc-46dc-87d9-f73fbdc96a10)
 
 
 如下图所示，用小号一字螺丝批拧松主板电源接口侧面的螺丝，即可插入或拔出线缆，同样的安装时需要注意火线与零线之间不要被多余铜丝短接。
@@ -34,7 +37,8 @@
 
 如下图所示对准两个安德森插头后直接插入即可，拆除时向两侧用力拔出。
 
-![Pasted image 20230504204347](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/ed0b07ae-0ba7-43a7-9cf6-d2e118fbe190)
+
+![Pasted image 20230504204332](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/28dd547f-35fd-4b01-9ebd-378b795247af)
 
 5. **检查电路并闭合开关**
 
@@ -56,18 +60,27 @@
 
 1. 首先从官网 https://code.visualstudio.com/Download 下载最新版本的`Visual Studio Code`编辑器并完成安装。
 
-2. 打开`Visual Studio Code`编辑器，按下键盘`Ctrl+Shift+X`打开拓展侧边栏，输入`WPILib`并搜索安装。 ![Pasted image 20230504204750](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/793d886f-6093-4be2-bea2-b5561d47d982)
+2. 打开`Visual Studio Code`编辑器，按下键盘`Ctrl+Shift+X`打开拓展侧边栏，输入`WPILib`并搜索安装。![Pasted image 20230504204750](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/c1271877-45cf-49e2-ad0b-8ee70aac7e0e)
+
 
  
-3. WPILib插件安装完成后，点击右上方W标志或在键盘输入Ctrl+Shift+P打开命令输入框，输入`create a new project`并选择`WPILib: Create a new project`进入项目创建界面。![Pasted image 20230504204750](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/9a8038c6-11f3-4369-a347-e3301a5b2ce4)
+3. WPILib插件安装完成后，点击右上方W标志或在键盘输入Ctrl+Shift+P打开命令输入框，输入`create a new project`并选择`WPILib: Create a new project`进入项目创建界面。![Pasted image 20230504204759](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/ed6a1d91-78c2-4b72-871b-c60d860d8ab7)
+
+
 
  
-4. 在项目创建界面依次填入项目类型（样例或模板）、编程语言、项目目录、项目名称和队号后。其中项目样例给出了许多程序示例，包括但不限于：基础底盘程序、I2C通信程序、手柄遥控程序等。本实验中，选择空的模板程序完成创建项目即可。![Pasted image 20230504204813](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/7479addd-fd57-4a7d-bb6b-23b88e312f7b)
+4. 在项目创建界面依次填入项目类型（样例或模板）、编程语言、项目目录、项目名称和队号后。其中项目样例给出了许多程序示例，包括但不限于：基础底盘程序、I2C通信程序、手柄遥控程序等。本实验中，选择空的模板程序完成创建项目即可。![Pasted image 20230504204803](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/63ed255f-8673-4297-b52c-9b7d59180941)
+
+
  
-5. 创建项目后点击右上角的`···`;并点击`Deploy Robot Code`即可部署程序，此时可以在`FRC Driver Station`中点击`Enabled`以运行程序或点击`Disabled`以暂停程序。![Pasted image 20230504204813](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/2d502c78-e31f-4a10-a7f9-513a058b22e9)
+5. 创建项目后点击右上角的`···`;并点击`Deploy Robot Code`即可部署程序，此时可以在`FRC Driver Station`中点击`Enabled`以运行程序或点击`Disabled`以暂停程序。
+![Pasted image 20230504204820](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/14253d6d-ebb5-47ee-90ca-977ce9bb7477)
+
+
 
 #### 五  用路由器连接主板
-1. 如图所示，断开开关后在电路中连入稳压器和路由器。![Pasted image 20230504204813](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/74805da4-949d-4315-a8a7-80426a66a6d3)
+1. 如图所示，断开开关后在电路中连入稳压器和路由器。![Pasted image 20230504204825](https://github.com/ZhangzrJerryGithub/FRC-Wiki/assets/142400625/626d108c-9620-4fcd-ada4-dd25449d3c57)
+
 
 2. 闭合开关后，在电脑无线局域网中连接名字为8811的路由器，如路由器尚未设置名称的可参考 https://docs.wpilib.org/en/stable/docs/controls-overviews/control-system-software.html#frc-radio-configuration-utility-windows-only 完成设置。
 
