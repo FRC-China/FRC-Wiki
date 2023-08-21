@@ -88,7 +88,7 @@ theme:
     - search.suggest
     - navigation.footer
   logo: assets\icon-nobg.png
-  favicon: assets\icon-nobg.png
+  favicon: images\icon-nobg.png
 
 plugins:
   - minify:
