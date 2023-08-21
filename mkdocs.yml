@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: FRC 中文 Wiki
 site_url: https://wiki.firstrobotics.com.cn
-site_author: FRC 中文 Wiki 项目组
-site_description: FRC 中文 Wiki 是一个由中国 FRC 社区维护的 FRC 中文知识库。
+site_author: FRC China 项目组
+site_description: FRC 中文 Wiki 是一个由 FRC China 项目组维护的 FRC 中文知识库。
 
 repo_name: FRC-China/FRC-Wiki
 repo_url: https://github.com/FRC-China/FRC-Wiki
@@ -87,6 +87,8 @@ theme:
     - navigation.tabs
     - search.suggest
     - navigation.footer
+  logo: assets\icon-nobg.png
+  favicon: assets\icon-nobg.png
 
 plugins:
   - minify:
