@@ -8,7 +8,7 @@
 
 根据 CC BY-SA 4.0 与 SATA 2.0 协议，你在引用时并无格式要求，但有如下限制：
 
-- 必须注明来源为 FRC China Wiki，作者（如有）为 FRC China Wiki Team；
+- 必须注明来源为 FRC 中文 Wiki，作者（如有）为 CNFRC Team；
 - 在传播时必须同样遵守本协议；
 - 必须注明是否对引用内容有所更改；
 - 你受到本仓库内容的帮助后，应当为本仓库点赞（Star）。
@@ -18,7 +18,7 @@
 我们仍旧给出建议的内容引用格式：
 
 ```
-<内容所属板块的标题> - FRC 中文 Wiki (FRC China Wiki Team)
+<内容所属板块的标题> - FRC 中文 Wiki (CNFRC Team)
 ```
 
 其中板块标题和站点名称必须注明，对于是否署名作者不做要求。
@@ -29,8 +29,8 @@
 
 ```
 @misc{frc-china-wiki,   
-    author = {FRC China Wiki Team},   
-    title = {FRC China Wiki},   
+    author = {CNFRC Team},   
+    title = {FRC 中文 Wiki},   
     year = {2023},   
     publisher = {GitHub},   
     journal = {GitHub Repository},   

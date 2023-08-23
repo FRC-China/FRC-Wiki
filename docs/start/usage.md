@@ -8,4 +8,4 @@
 
 - [FRC 中文博客（用于记录队伍活动和解决方案）](http://forum.firstrobotics.com.cn/category/3/%E5%8D%9A%E5%AE%A2)
 
-本 Wiki 隶属于 [FRC-China 项目组](https://github.com/FRC-China)。
+本 Wiki 隶属于 [CNFRC 项目组](https://github.com/FRC-China)。

@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: FRC 中文 Wiki
 site_url: https://wiki.firstrobotics.com.cn
-site_author: FRC China 项目组
-site_description: FRC 中文 Wiki 是一个由 FRC China 项目组维护的 FRC 中文知识库。
+site_author: CNFRC 项目组
+site_description: FRC 中文 Wiki 是一个由 CNFRC 项目组维护的 FRC 中文知识库。
 
 repo_name: FRC-China/FRC-Wiki
 repo_url: https://github.com/FRC-China/FRC-Wiki
@@ -88,7 +88,7 @@ theme:
     - search.suggest
     - navigation.footer
   logo: assets\icon-nobg.png
-  favicon: images\icon-nobg.png
+  favicon: images\favicon.png
 
 plugins:
   - minify:
@@ -103,4 +103,4 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-copyright: Copyright &copy; 2023 <a href="https://github.com/FRC-China">FRC China Wiki Team</a> <br /> Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> and <a href="https://github.com/zTrix/sata-license">SATA 2.0</a>
+copyright: Copyright &copy; 2023 <a href="https://github.com/FRC-China">CNFRC Team</a> <br /> Licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a> and <a href="https://github.com/zTrix/sata-license">SATA 2.0</a>
