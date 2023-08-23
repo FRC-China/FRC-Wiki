@@ -1,6 +1,6 @@
 # 关于本项目
 
-欢迎来到 **FRC 中文 Wiki**! 这是 [FRC-China 项目](https://www.firstrobotics.com.cn/)的一部分。
+欢迎来到 **FRC 中文 Wiki**! 这是 [CNFRC 项目](https://www.firstrobotics.com.cn/)的一部分。
 
 本项目受到 [OI Wiki](https://oi-wiki.org)、[CTF Wiki](https://ctf-wiki.org) 项目的启发，于 2023 年 5 月 28 日由上海队伍队员自发组织启动。本项目的目标是为中国的 FRC 队伍提供一个中文的知识库，以便于新队伍入门与学习交流。
 
