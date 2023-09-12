@@ -35,6 +35,7 @@ nav:
   - 工具和软件:
       - Git 版本控制: tools/git-basics.md
       - Autodesk Inventer 使用教程: tools/inventor.md
+      - 常用软件概述：tools/softwares.md
   - 最佳实践:
         - 概述: best-practices/overview.md
         - 2023年6940季后赛机器: 
