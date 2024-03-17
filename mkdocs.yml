@@ -27,6 +27,7 @@ nav:
       - 结构概述: structure/overview.md
       - 底盘: structure/chassis.md
       - 材料: structure/material.md
+      - 结构组工作原则: structure/5449_structure_group_working_principle.md
   - 电控系统:
       - 电控概述: electronics/overview.md
   - 程序:
