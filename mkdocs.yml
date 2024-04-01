@@ -30,6 +30,7 @@ nav:
       - 结构组工作原则: structure/5449_structure_group_working_principle.md
   - 电控系统:
       - 电控概述: electronics/overview.md
+      - 电路接线规范: electronics/circuit-criteria.md
   - 程序:
       - 程序概述: programming/overview.md
       - Java 基础: programming/java-basics.md
