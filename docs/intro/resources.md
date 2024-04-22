@@ -16,6 +16,8 @@
 
 - [FRC Zero](https://frczero.org): 一个英文 FRC Wiki，包含很多基础知识。
 
+- [The Unofficial FRC Mechanism Encyclopedia](https://www.projectb.net.au/resources/robot-mechanisms/): 一个非官方的机械结构汇总。
+
 ## 论坛类网站
 
 - [Chief Delphi](https://www.chiefdelphi.com): 一个问答类论坛，可以用于技术提问等用途。
