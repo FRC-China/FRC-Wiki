@@ -29,11 +29,10 @@
 
 ```
 @misc{frc-china-wiki,   
-    author = {CNFRC Team},   
-    title = {FRC 中文 Wiki},   
-    year = {2023},   
-    publisher = {GitHub},   
-    journal = {GitHub Repository},   
-    howpublished = {\url{https://github.com/FRC-China/FRC-Wiki}},   
+    author = {CNFRC Team},
+    title = {FRC 中文 Wiki},
+    year = 2024,
+    publisher = {GitHub},
+    howpublished = {\url{https://github.com/FRC-China/FRC-Wiki}},
 } 
 ```
