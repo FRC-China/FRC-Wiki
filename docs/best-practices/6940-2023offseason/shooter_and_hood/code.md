@@ -12,7 +12,7 @@ shooter部分的程序采用了类似状态机的设计逻辑。将完整的射�
 
 具体的转换逻辑如下：
 
-![射球状态机](https://img1.imgtp.com/2023/08/15/Xwdq5aBN.png)
+![射球状态机](https://r2.img.cdn.loliloli.net/19d48d1c0382158a62dfb072681f2190/2025/02/08/LIAPR.md.png)
 
 一个完整的射球 cycle 可以概括如下：
 
