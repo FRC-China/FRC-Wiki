@@ -4,9 +4,9 @@
 
 尽管直接设计球路的供球逻辑可能没有那么简单，但是考虑到只有两个 DigitalInput ，我们可以采取直接枚举的方式来撰写控制逻辑。
 
-![标注了轮子传动的6940机器](https://img1.imgtp.com/2023/08/10/DdRiJktE.png)
+![标注了轮子传动的6940机器](https://r2.img.cdn.loliloli.net/19d48d1c0382158a62dfb072681f2190/2025/02/08/LIh9C.md.png)
 
-![简单的自动供球](https://img1.imgtp.com/2023/08/10/Fz1D4gpE.png)
+![简单的自动供球](https://r2.img.cdn.loliloli.net/19d48d1c0382158a62dfb072681f2190/2025/02/08/LI0Dy.md.png)
 
 以下是控制代码节选（UpFront 和 UpBack 都是蓝色部分的控制，只不过这个部分有两个不同的电机）：
 
