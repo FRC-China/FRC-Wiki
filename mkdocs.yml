@@ -54,6 +54,17 @@ nav:
             - 概述: best-practices/6940-2023offseason/shooter_and_hood/intro.md
             - 结构设计: best-practices/6940-2023offseason/shooter_and_hood/structure.md
             - 代码设计: best-practices/6940-2023offseason/shooter_and_hood/code.md
+        - 2025年6940正赛机器: 
+          - 机器性能概述: best-practices/6940-2025ShanghaiRegional/overview.md
+          - 全场定位技术: 
+            - 概述: best-practices/6940-2025ShanghaiRegional/full_field_localization/intro.md
+            - 硬件准备: 
+              - Limelight 设置: best-practices/6940-2025ShanghaiRegional/full_field_localization/preparation/limelight_setup.md
+              - Pigeon2 设置: best-practices/6940-2025ShanghaiRegional/full_field_localization/preparation/pigeon2_calibration.md
+              - Swerve底盘 校准: best-practices/6940-2025ShanghaiRegional/full_field_localization/preparation/swerve_calibration.md
+            - 核心代码:
+              - poseEstimator 更新: best-practices/6940-2025ShanghaiRegional/full_field_localization/code/pose_estimator.md
+              - 3PID移动到定点: best-practices/6940-2025ShanghaiRegional/full_field_localization/code/three_PID_to_point.md
 
 
 markdown_extensions:
