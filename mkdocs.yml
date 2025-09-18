@@ -65,6 +65,13 @@ nav:
             - 核心代码:
               - poseEstimator 更新: best-practices/6940-2025ShanghaiRegional/full_field_localization/code/pose_estimator.md
               - 3PID移动到定点: best-practices/6940-2025ShanghaiRegional/full_field_localization/code/three_PID_to_point.md
+        - 2025年6907季后赛机器:
+            - 概述: best-practices/6907-2025offseason/overview.md
+            - Extension: best-practices/6907-2025offseason/Extension.md
+            - Pivot: best-practices/6907-2025offseason/Pivot.md
+            - Endeffector: best-practices/6907-2025offseason/Endeffector.md
+            - Climber: best-practices/6907-2025offseason/Climber.md
+
 
 
 markdown_extensions:
