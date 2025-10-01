@@ -34,6 +34,7 @@ nav:
   - 程序:
       - 程序概述: programming/overview.md
       - Java 基础: programming/java-basics.md
+      - 命令模式: programming/command-based.md
   - 工具和软件:
       - Git 版本控制: tools/git-basics.md
       - Autodesk Inventer 使用教程: tools/inventor.md
